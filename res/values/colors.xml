@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgc">#33ffffff</color>
+    <color name="bgc0">#00000000</color>
+    <color name="bgc2">#7dffffff</color>
+    <color name="bgc4">#7df2e1c3</color>
+    <color name="bgc8">#7dffad6d</color>
+    <color name="bgc16">#7dff8d56</color>
+    <color name="bgc32">#7dff7150</color>
+    <color name="bgc64">#7dff5027</color>
+    <color name="bgc128">#7df9dc95</color>
+    <color name="bgc256">#7df6cb5a</color>
+    <color name="bgc512">#7df8c440</color>
+    <color name="bgc1024">#7dfab535</color>
+    <color name="bgc2048">#7dffa523</color>
+    <color name="bgc4096">#7db24614</color>
+    <color name="bgc8192">#7dB22222</color>
+</resources>
